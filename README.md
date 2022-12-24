@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nimbo1999&label=Profile%20views&color=0e75b6&style=flat" alt="nimbo1999" /> </p>
 
-- 🔭 I’m currently working on **Hive9**
+- 🔭 I’m currently working on **[Esusu](https://esusurent.com/)**
 
-- 🌱 I’m currently learning **Angular and Java.**
+- 🌱 I’m currently learning **Angular, Java and always getting better with ReacJS.**
 
 - 💬 Ask me about **React, State, Optimization...**
 
