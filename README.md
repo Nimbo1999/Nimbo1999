@@ -1,28 +1,75 @@
-<h1 align="center">Hi 👋, I'm Matheus Lopes</h1>
-<h3 align="center">A ReactJS Frontend developer from Brazil</h3>
+# Hi there, I'm Nimbo1999! 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nimbo1999&label=Profile%20views&color=0e75b6&style=flat" alt="nimbo1999" /> </p>
+Welcome to my GitHub profile!  
+Here you'll find a collection of my favorite projects, code experiments, and contributions to the open-source community.
 
-- 🔭 I’m currently working on **[Esusu](https://esusurent.com/)**
+---
 
-- 🌱 I’m currently learning **Angular, Java and always getting better with ReacJS.**
+## 🚀 About Me
 
-- 💬 Ask me about **React, State, Optimization...**
+- 👨‍💻 **Software Engineer at Esusu**
+- 🎨 Specialist in crafting beautiful and scalable UI interfaces for web applications
+- 🌱 Always learning and exploring new technologies and modern software architecture
+- 🛠️ Advocate of industry standards and engineering principles (SOLID, TDD, DDD)
+- 🤝 Open to collaboration and sharing knowledge with the developer community
 
-- 📫 How to reach me **matlopes1999@gmail.com**
+---
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/matheuslopes1999/](https://www.linkedin.com/in/matheuslopes1999/)
+## 🛠️ My Toolbox
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+- **Languages:** TypeScript, Go, Java
+- **Frameworks & Libraries:** ReactJS, RemixJS, NextJS
+- **Databases:** PostgreSQL, MySQL, MongoDB, DynamoDB
+- **Ecosystem:** Modern open source tools that make developers' lives easier
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nimbo1999&show_icons=true&locale=en&layout=compact" alt="nimbo1999" /></p>
+## 🧭 Engineering Principles
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nimbo1999&show_icons=true&theme=dark&locale=en" alt="nimbo1999" /></p>
+- **SOLID** – Writing robust, maintainable, and scalable code  
+- **TDD** – Test-driven development for reliable software  
+- **DDD** – Domain-driven design for complex systems
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nimbo1999&" alt="nimbo1999" /></p>
+---
 
+## 🌟 Featured Projects
+
+### Esusu Dashboard (B2B Platform)
+A comprehensive dashboard web application focused on B2B relationships, built with **RemixJS**. This platform offers multiple modules to empower Esusu's customers.  
+**Highlight:**  
+- **Data Insights Module:** A powerful analytics suite for Esusu partners, enabling them to visualize, analyze, and leverage business data and impact for better, data-driven decision-making and optimized internal processes.
+
+### Esusu Admin Console
+A dedicated admin console web application supporting Esusu's internal collaborators. Designed to streamline operations for the customer support team with a suite of modules, including:  
+- Performing actions based on customer requests  
+- Streamlining onboarding and off-boarding processes  
+- Enhancing productivity for daily support tasks
+
+### How to React Beautiful DnD (PoC)
+A proof-of-concept repository demonstrating how to build a drag-and-drop feature with **ReactJS**.  
+[Check it out here!](https://github.com/Nimbo1999/how-to-react-beautiful-dnd)
+
+---
+
+## 📊 Most Used Languages
+
+![Most Used Languages](https://camo.githubusercontent.com/6c617a536861fbd3cb0796a3e8f21f5cff75c907ef6260a96e6c35ca06aa5d51/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d6e696d626f313939392673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374)
+
+---
+
+## 📈 GitHub Stats
+
+![Nimbo1999's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nimbo1999&show_icons=true&theme=radical)
+
+---
+
+## 📫 Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/matheuslopes1999/)
+- [Twitter](https://x.com/Matheus22L)
+- 📧 matlopes1999@gmail.com
+
+---
+
+Thanks for visiting! ⭐  
+Feel free to explore my repositories and reach out if you'd like to collaborate.
